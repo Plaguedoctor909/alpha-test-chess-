@@ -1,0 +1,36 @@
+[
+  {
+    "name": "John Smith",
+    "email": "johndsmith@example.com",
+    "phone": "555-555-5555",
+    "products": [
+      {
+        "name": "Handcrafted wooden bowls",
+        "description": "Beautiful hand-turned wooden bowls made from locally sourced wood.",
+        "price": "$25"
+      },
+      {
+        "name": "Custom-carved wooden spoons",
+        "description": "Unique custom-carved wooden spoons that make perfect gifts.",
+        "price": "$15"
+      }
+    ]
+  },
+  {
+    "name": "Jane Doe",
+    "email": "janedoe@example.com",
+    "phone": "123-456-7890",
+    "services": [
+      {
+        "name": "Portrait painting",
+        "description": "Commission a custom portrait painting of yourself or a loved one.",
+        "price": "Varies"
+      },
+      {
+        "name": "Illustration",
+        "description": "Hire Jane to illustrate your children's book or graphic novel.",
+        "price": "Varies"
+      }
+    ]
+  }
+]

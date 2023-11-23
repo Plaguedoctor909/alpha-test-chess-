@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "description": "A comfortable and stylish T-shirt made from 100% organic cotton.",
+    "price": 25.00,
+    "image": "https://www.example.com/product1.jpg",
+    "category": "Apparel",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "name": "Coffee mug",
+    "description": "A high-quality ceramic coffee mug with a beautiful design.",
+    "price": 15.00,
+    "image": "https://www.example.com/product2.jpg",
+    "category": "Homeware",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "name": "Handmade soap",
+    "description": "A handmade soap made with natural ingredients.",
+    "price": 10.00,
+    "image": "https://www.example.com/product3.jpg",
+    "category": "Beauty",
+    "stock": 20
+  }
+]
